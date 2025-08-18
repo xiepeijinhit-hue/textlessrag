@@ -14,9 +14,9 @@
 
 
 ## 🔥 News
-- 🎉 We have released the demo, allowing you to customize your own VRAG.
-- 🎉 Our framework integrates SOTA visual embedding models, enabling you to create your own retriever.
-- 🎉 We are releasing our 7B model and will gradually release models in more sizes. Welcome to use!
+- 🎉 xxx.
+- 🎉 xxx.
+- 🎉 xxx. Welcome to use!
 - ⏳ The project is still under ongoing development, and the training code will be available soon~
 <!-- - ⌛️ Training code will be released soon. -->
 <!-- - 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
