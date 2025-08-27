@@ -21,3 +21,10 @@
 <!-- - ⌛️ Training code will be released soon. -->
 <!-- - 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
 - 🎉 We have released the ViDoSeek dataset, which is suitable for Retrieval-augmented Generation in the large visually rich document collection. -->
+
+
+
+
+
+https://github.com/user-attachments/assets/af83ff8d-13e7-48a5-8fac-b8f47e1cbe22
+
