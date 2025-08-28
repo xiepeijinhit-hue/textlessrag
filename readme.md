@@ -24,6 +24,13 @@
 
 
 
+## Dataset
+We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
+Domains world cloud:
+
+<img width="3000" height="1500" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
+
+
 
 
 
