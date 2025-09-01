@@ -11,7 +11,7 @@
 <a href='https://huggingface.co/datasets/hit12345/textlessrag/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-green'></a>
 <!-- <a href="https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-data-blue></a> -->
 </div>
-<img width="3000" height="1500" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
+
 
 ## 🔥 News
 - 🎉 xxx.
@@ -30,6 +30,10 @@ Domains world cloud:
 
 
 
+https://github.com/user-attachments/assets/b51a1292-4f86-49ff-a43e-9da406ffc1c3
+
+
+<img width="3000" height="1500" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
 
 
 
