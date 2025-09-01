@@ -12,7 +12,7 @@
 <!-- <a href="https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-data-blue></a> -->
 </div>
 
-https://github.com/user-attachments/assets/b51a1292-4f86-49ff-a43e-9da406ffc1c3
+
 
 ## 🔥 News
 - 🎉 xxx.
