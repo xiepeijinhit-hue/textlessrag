@@ -37,6 +37,8 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
 
 ## Dataset
+
+### Chinese Visual Doc RAG Dataset
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
 Domains world cloud:
 
