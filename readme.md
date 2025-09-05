@@ -15,10 +15,10 @@
 
 
 ## 🔥 News
-- 🎉 xxx.
-- 🎉 xxx.
-- 🎉 xxx. Welcome to use!
-- ⏳ The project is still under ongoing development, and the training code will be available soon~
+- 🎉  We propose TextlessRAG, the first speech-based, end-to-end visual document RAG pipeline that operates without ASR, OCR, or TTS.
+- 🎉  We construct SV-DOC, the first speech-based visual document RAG benchmark, featuring bilingual data in English and Chinese.
+- 🎉 xxx. 
+- ⏳ The project is still under ongoing development, and the code will be available soon~
 <!-- - ⌛️ Training code will be released soon. -->
 <!-- - 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
 - 🎉 We have released the ViDoSeek dataset, which is suitable for Retrieval-augmented Generation in the large visually rich document collection. -->
