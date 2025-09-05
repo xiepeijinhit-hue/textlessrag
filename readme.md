@@ -30,6 +30,11 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 - 🎉 We have released the ViDoSeek dataset, which is suitable for Retrieval-augmented Generation in the large visually rich document collection. -->
 
 
+## Quick Start
+
+
+## TextLessRAG Pipeline
+
 
 ## Dataset
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
