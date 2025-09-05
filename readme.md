@@ -12,10 +12,9 @@
 <!-- <a href="https://huggingface.co/autumncc/Qwen2.5-VL-7B-VRAG" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-data-blue></a> -->
 </div>
 
---- 
+## Introduction
+
 ## 🖥️ Example
-
-
 https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
 
@@ -28,6 +27,7 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 <!-- - ⌛️ Training code will be released soon. -->
 <!-- - 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
 - 🎉 We have released the ViDoSeek dataset, which is suitable for Retrieval-augmented Generation in the large visually rich document collection. -->
+
 
 
 ## Quick Start
