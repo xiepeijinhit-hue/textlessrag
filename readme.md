@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
 
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Create and activate the Python 3.11.10 environment.
 ```python
