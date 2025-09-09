@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 ## 🔥 News
 - 🎉  We propose TextlessRAG, the first speech-based, end-to-end visual document RAG pipeline that operates without ASR, OCR, or TTS.
 - 🎉  We construct SV-DOC, the first speech-based visual document RAG benchmark, featuring bilingual data in English and Chinese.
-- 🎉 xxx. 
 - ⏳ The project is still under ongoing development, and the code will be available soon~
 <!-- - ⌛️ Training code will be released soon. -->
 <!-- - 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
