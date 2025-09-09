@@ -24,6 +24,7 @@ We release the first bilingual speech–document RAG dataset, containing Chinese
 
 ## 🖥️ Example
 We demonstrate an example of a pipeline in the video below.
+
 https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
 
