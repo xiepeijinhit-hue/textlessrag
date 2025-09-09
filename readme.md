@@ -32,10 +32,11 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
 ## Quick Start
 
-# 创建并激活 Python 3.11.10 环境
+# Create and activate the Python 3.11.10 environment.
 ```python
-conda create -n py311 python=3.11.10
-conda activate py311
+conda create -n textlessrag python=3.11.10
+conda activate textlessrag
+pip install -r requirement.txt
 ```
 
 ## TextLessRAG Pipeline
