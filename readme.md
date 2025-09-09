@@ -47,10 +47,13 @@ pip install git+https://github.com/illuin-tech/colpali.git #Colqwen-Omni
 pip install git+https://github.com/QwenLM/Qwen2.5-Omni.git  #Qwen2.5-Omni
 pip install -r requirements.txt
 ```
-### dowmload ckp
-| 项目 | 仓库 | 状态 |
+### Dowmload CKP
+| model | github | ckp |
 |------|------|------|
-| Qwen2.5 | [GitHub](https://github.com/Qwen/Qwen2.5-Omni-7B) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
+| Colqwen-Omni | [GitHub](https://github.com/illuin-tech/colpali) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
+| Qwen2.5-Omni | [GitHub](https://github.com/QwenLM/Qwen2.5-Omni) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
+| DocLayout-YOLO | [GitHub](https://github.com/opendatalab/DocLayout-YOLO?tab=readme-ov-file) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
+
 
 
 ## TextLessRAG Pipeline
