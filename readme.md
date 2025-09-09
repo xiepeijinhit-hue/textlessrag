@@ -74,10 +74,12 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 ### Five-step data generation
 <img width="500"  alt="data" src="https://github.com/user-attachments/assets/2ec70aa0-01ba-4197-b7aa-ab176a6203ef" />
 
-1. Step 1:
-
-
-2. Step 2:
+- Step 1:
+- Step 2:
+- Step 3:
+- Step 4:
+- Step 5:
+  
 
    
 
