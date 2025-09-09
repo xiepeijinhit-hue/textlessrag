@@ -18,9 +18,9 @@
 </div>
 
 ## Introduction
-We introduce TextlessRAG, the first end-to-end framework for speech-based question answering over large-scale document images. TextlessRAG bypasses ASR, TTS, and OCR, directly interpreting spoken queries, retrieving relevant visual knowledge, and generating answers in a fully textless pipeline. 
+We introduce **TextlessRAG**, the first end-to-end framework for speech-based question answering over large-scale document images. TextlessRAG bypasses ASR, TTS, and OCR, directly interpreting spoken queries, retrieving relevant visual knowledge, and generating answers in a fully textless pipeline. 
 
-We release the first bilingual speech–document RAG dataset, containing Chinese and English voice queries aligned with multimodal document content, to foster future research in this direction.
+We release the first bilingual speech–document RAG dataset **SV-DOC**, containing Chinese and English voice queries aligned with multimodal document content, to foster future research in this direction.
 
 ## 🖥️ Example
 We demonstrate an example of a pipeline in the video below.
