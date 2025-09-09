@@ -12,8 +12,6 @@
 <a href="https://huggingface.co/vidore/colqwen-omni-v0.1" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Retriver-blue></a>
 <a href="https://huggingface.co/Qwen/Qwen2.5-Omni-7B" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Generator-blue></a>
 
-<a href="https://huggingface.co/Qwen/Qwen2.5-Omni-7B" target="_blank"><img src=https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white></a>
-  
 </div>
 
 ## Introduction
