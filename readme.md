@@ -6,7 +6,7 @@
 
 <div align="center">
 <!-- <h1>A Multi-round Multi-modal Reinforcement Learning Framework</h1> -->
-<p><strong>A end2end OCR & ASR free multimodal retrieval-augmented generation pipeline </strong></p>
+<p><strong>An end2end OCR & ASR & TTS free multimodal retrieval-augmented generation pipeline </strong></p>
 
 <a href='https://huggingface.co/datasets/hit12345/textlessrag/tree/main'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-green'></a>
 <a href="https://huggingface.co/vidore/colqwen-omni-v0.1" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Retriver-blue></a>
@@ -23,6 +23,7 @@ We introduce TextlessRAG, the first end-to-end framework for speech-based questi
 We release the first bilingual speech–document RAG dataset, containing Chinese and English voice queries aligned with multimodal document content, to foster future research in this direction.
 
 ## 🖥️ Example
+We demonstrate an example of a pipeline in the video below.
 https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
 
