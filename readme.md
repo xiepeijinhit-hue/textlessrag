@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### Dowmload CKP
 | model | github | ckp |
 |------|------|------|
-| Colqwen-Omni | [GitHub](https://github.com/illuin-tech/colpali) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue)(https://huggingface.co/vidore/colqwen-omni-v0.1) |
+| Colqwen-Omni | [GitHub](https://github.com/illuin-tech/colpali) | [![🤗 HF](https://img.shields.io/badge/🤗%20Hugging%20Face-orange)](https://huggingface.co/vidore/colqwen-omni-v0.1) |
 | Qwen2.5-Omni | [GitHub](https://github.com/QwenLM/Qwen2.5-Omni) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
 | DocLayout-YOLO | [GitHub](https://github.com/opendatalab/DocLayout-YOLO?tab=readme-ov-file) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
 
