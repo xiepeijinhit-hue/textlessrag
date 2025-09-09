@@ -68,6 +68,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 
 
 ## Data Engine
+<img width="500"  alt="data" src="https://github.com/user-attachments/assets/2ec70aa0-01ba-4197-b7aa-ab176a6203ef" />
 
 ### Chinese Visual Doc RAG Dataset
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
