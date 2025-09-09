@@ -47,14 +47,12 @@ pip install git+https://github.com/illuin-tech/colpali.git #Colqwen-Omni
 pip install git+https://github.com/QwenLM/Qwen2.5-Omni.git  #Qwen2.5-Omni
 pip install -r requirements.txt
 ```
-### Dowmload CKP
+### Dowmload CKP from Hugging Face 
 | model | github | ckp |
 |------|------|------|
-| Colqwen-Omni | [GitHub](https://github.com/illuin-tech/colpali) | [![🤗 HF](https://img.shields.io/badge/🤗%20Hugging%20Face-orange)](https://huggingface.co/vidore/colqwen-omni-v0.1) |
-| Qwen2.5-Omni | [GitHub](https://github.com/QwenLM/Qwen2.5-Omni) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
-| DocLayout-YOLO | [GitHub](https://github.com/opendatalab/DocLayout-YOLO?tab=readme-ov-file) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue) |
-
-
+| Colqwen-Omni | [GitHub](https://github.com/illuin-tech/colpali) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue)(https://huggingface.co/vidore/colqwen-omni-v0.1) |
+| Qwen2.5-Omni | [GitHub](https://github.com/QwenLM/Qwen2.5-Omni) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue)(https://huggingface.co/Qwen/Qwen2.5-Omni-7B) |
+| DocLayout-YOLO | [GitHub](https://github.com/opendatalab/DocLayout-YOLO?tab=readme-ov-file) | ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Generator-blue)(https://huggingface.co/collections/juliozhao/doclayout-yolo-670cdec674913d9a6f77b542) |
 
 ## TextLessRAG Pipeline
 
