@@ -43,6 +43,8 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 ```python
 conda create -n textlessrag python=3.11.10
 conda activate textlessrag
+pip install git+https://github.com/illuin-tech/colpali.git #Colqwen-Omni
+pip install git+https://github.com/QwenLM/Qwen2.5-Omni.git  #Qwen2.5-Omni
 pip install -r requirements.txt
 ```
 
