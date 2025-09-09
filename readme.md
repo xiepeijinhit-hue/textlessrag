@@ -64,7 +64,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 
 ## TextLessRAG Pipeline
 
-<img width="1434" height="1073" alt="pipeline" src="https://github.com/user-attachments/assets/d6fc78bc-9838-4758-a3b0-8f1d1d93060c" />
+<img width="834" height="673" alt="pipeline" src="https://github.com/user-attachments/assets/d6fc78bc-9838-4758-a3b0-8f1d1d93060c" />
 
 
 ## Data Engine
