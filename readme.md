@@ -47,7 +47,8 @@ pip install git+https://github.com/illuin-tech/colpali.git #Colqwen-Omni
 pip install git+https://github.com/QwenLM/Qwen2.5-Omni.git  #Qwen2.5-Omni
 pip install -r requirements.txt
 ```
-### Dowmload CKP from Hugging Face 
+### Download CKP from Hugging Face 
+Download ``aaa" model weight from Hugging Face to folder models. 
 | model | github | ckp |
 |------|------|------|
 | Colqwen-Omni | [GitHub](https://github.com/illuin-tech/colpali) | [![🤗 HF](https://img.shields.io/badge/🤗%20Hugging%20Face-orange)](https://huggingface.co/vidore/colqwen-omni-v0.1) |
