@@ -37,8 +37,8 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 <!-- - 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
 - 🎉 We have released the ViDoSeek dataset, which is suitable for Retrieval-augmented Generation in the large visually rich document collection. -->
 
-### List of Content
-- [x] Provide the environment setup.
+### List of Contents
+- [x] Provide the environment setup with model weights.
 - [x] Provide the details of DataEngine with Examples.
 - [ ] Provide the Crops.  
 
