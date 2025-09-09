@@ -40,7 +40,9 @@ https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 ### List of Contents
 - [x] Provide the environment setup with model weights.
 - [x] Provide the details of DataEngine with Examples.
-- [ ] Provide the Crops.  
+- [ ] Provide the Crops of audio and document images.
+- [ ] Provide the meta data.  
+        
 
 
 
