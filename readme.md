@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## TextLessRAG Pipeline
 
 
-## Dataset
+## Data Engine
 
 ### Chinese Visual Doc RAG Dataset
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
