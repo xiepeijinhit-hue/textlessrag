@@ -63,6 +63,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 | DocLayout-YOLO | [GitHub](https://github.com/opendatalab/DocLayout-YOLO?tab=readme-ov-file) | [![🤗 HF](https://img.shields.io/badge/🤗%20Hugging%20Face-orange)](https://huggingface.co/collections/juliozhao/doclayout-yolo-670cdec674913d9a6f77b542) |
 
 ## TextLessRAG Pipeline
+[pipeline2.pdf](https://github.com/user-attachments/files/22229099/pipeline2.pdf)
 
 
 ## Data Engine
