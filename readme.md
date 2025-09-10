@@ -97,5 +97,19 @@ Domains world cloud:
 
 
 
+## Citation
+
+If you use this repository in your work, please cite:
+
+```bibtex
+@misc{xie2025textlessragendtoendvisualdocument,
+      title={TextlessRAG: End-to-End Visual Document RAG by Speech Without Text}, 
+      author={Peijin Xie and Shun Qian and Bingquan Liu and Dexin Wang and Lin Sun and Xiangzheng Zhang},
+      year={2025},
+      eprint={2509.07538},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.07538}, 
+}
 
 
