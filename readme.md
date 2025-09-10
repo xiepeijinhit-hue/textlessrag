@@ -12,7 +12,7 @@
 <a href="https://huggingface.co/vidore/colqwen-omni-v0.1" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Retriver-blue></a>
 <a href="https://huggingface.co/Qwen/Qwen2.5-Omni-7B" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Generator-blue></a>
 <a href="https://huggingface.co/collections/juliozhao/doclayout-yolo-670cdec674913d9a6f77b542" target="_blank"><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Layout-yellow></a>
-<a href="https://arxiv.org/pdf" target="_blank"><img src=https://img.shields.io/badge/Paper-arXiv-red></a>
+<a href="https://arxiv.org/abs/2509.07538" target="_blank"><img src=https://img.shields.io/badge/Paper-arXiv-red></a>
 
 
 </div>
