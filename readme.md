@@ -64,7 +64,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 | Qwen2.5-Omni | [GitHub](https://github.com/QwenLM/Qwen2.5-Omni) | [![🤗 HF](https://img.shields.io/badge/🤗%20Hugging%20Face-orange)](https://huggingface.co/Qwen/Qwen2.5-Omni-7B) |
 | DocLayout-YOLO | [GitHub](https://github.com/opendatalab/DocLayout-YOLO?tab=readme-ov-file) | [![🤗 HF](https://img.shields.io/badge/🤗%20Hugging%20Face-orange)](https://huggingface.co/collections/juliozhao/doclayout-yolo-670cdec674913d9a6f77b542) |
 
-## TextLessRAG Pipeline
+## 🤖 TextLessRAG Pipeline
 <img width="500" height="350" alt="pipeline" src="https://github.com/user-attachments/assets/d6fc78bc-9838-4758-a3b0-8f1d1d93060c" />
 
 
@@ -72,7 +72,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 
 ### Online query embedding, topk retrieval and reranking 
 
-## Data Engine
+## 📊 Data Engine   
 
 ### Data Statistics
 
