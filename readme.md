@@ -88,14 +88,14 @@ Details of data engine with refine rules and examples are provided in [data](dat
   
 
    
-### English Visual Doc RAG Datasets
+### <img width="20" height="20" alt="document" src="https://github.com/user-attachments/assets/f2932f31-5402-45f1-83c4-b3e05a842eaf" /> English Visual Doc RAG Datasets
 
 
-### Chinese Visual Doc RAG Dataset
+### <img width="20" height="20" alt="google-docs" src="https://github.com/user-attachments/assets/69446942-0193-4953-85f9-d0e08d95f6f3" />Chinese Visual Doc RAG Dataset
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
 Domains world cloud:
 <img width="500" height="300" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
-#### <img width="15" height="15" alt="pie-chart" src="https://github.com/user-attachments/assets/3496a62e-e1c6-4617-9712-6ed5d647189a" /> Page Distribution
+#### <img width="15" height="15" alt="bar-chart" src="https://github.com/user-attachments/assets/25cc5ea5-8fac-4b14-a83c-f596d8246863" /> Page Distribution
 <img width="4000" height="600" alt="histogram" src="https://github.com/user-attachments/assets/0bb4d5b2-c22f-44c2-add1-02c021b5c1b7" />
 
 
