@@ -103,7 +103,7 @@ We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
 
 - PDF Count Across Domains
 
-| 类别 | 数值 |
+| Domain | Count |
 | ---- | ---- |
 | 城投&建投&城建 | 76 |
 | 交通出行&运输 | 94 |
