@@ -69,8 +69,9 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 
 
 ### <img width="20" height="20" alt="search" src="https://github.com/user-attachments/assets/72fdf7fd-278d-42e9-98d4-18e65e048210" /> Offline knowledge embedding and layout 
+Layout Dictionary
 ```
-id_2_clasws_name = {
+id_2_class_name = {
 0: 'title',
 1: 'plain text',
 2: 'abandon',
