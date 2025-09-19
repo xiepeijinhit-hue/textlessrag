@@ -68,7 +68,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 <img width="500" height="350" alt="pipeline" src="https://github.com/user-attachments/assets/d6fc78bc-9838-4758-a3b0-8f1d1d93060c" />
 
 
-### Offline knowledge embedding and layout <img width="512" height="512" alt="search" src="https://github.com/user-attachments/assets/72fdf7fd-278d-42e9-98d4-18e65e048210" />
+### Offline knowledge embedding and layout <img width="15" height="15" alt="search" src="https://github.com/user-attachments/assets/72fdf7fd-278d-42e9-98d4-18e65e048210" />
 
 
 ### Online query embedding, topk retrieval and reranking 
