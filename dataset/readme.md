@@ -1,4 +1,4 @@
-# Examples of SV-DOC Dataset
+#  SV-DOC Dataset
 The first bilingual speech–document RAG dataset SV-DOC, containing Chinese and English voice queries aligned with multimodal document content, to foster future research in this direction.
 
 
