@@ -97,9 +97,11 @@ We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
 <img width="4000" height="600" alt="histogram" src="https://github.com/user-attachments/assets/0bb4d5b2-c22f-44c2-add1-02c021b5c1b7" />
 
 
-Domains world cloud:
+- Domains world cloud:
+
 <img width="500" height="300" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
 
+- PDF Count Across Domains
 
 | 类别 | 数值 |
 | ---- | ---- |
