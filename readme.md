@@ -95,7 +95,7 @@ Details of data engine with refine rules and examples are provided in [data](dat
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
 Domains world cloud:
 <img width="500" height="300" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
-#### Page Distribution
+#### <img width="12" height="12" alt="pie-chart" src="https://github.com/user-attachments/assets/3496a62e-e1c6-4617-9712-6ed5d647189a" /> Page Distribution
 <img width="4000" height="600" alt="histogram" src="https://github.com/user-attachments/assets/0bb4d5b2-c22f-44c2-add1-02c021b5c1b7" />
 
 
