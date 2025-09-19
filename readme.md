@@ -69,7 +69,20 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 
 
 ### <img width="20" height="20" alt="search" src="https://github.com/user-attachments/assets/72fdf7fd-278d-42e9-98d4-18e65e048210" /> Offline knowledge embedding and layout 
-
+```
+id_2_clasws_name = {
+0: 'title',
+1: 'plain text',
+2: 'abandon',
+3: 'figure',
+4: 'figure caption',
+5: 'table',
+6: 'table caption',
+7: 'table footnote',
+8: 'isolate formula',
+9: 'formula caption'
+}
+```
 
 ### <img width="30" height="30" alt="book" src="https://github.com/user-attachments/assets/96e8fdff-ea18-40fe-8f25-6c7875f1a94d" /> Online query embedding, topk retrieval and reranking 
 
