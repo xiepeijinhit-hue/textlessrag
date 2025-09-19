@@ -9,4 +9,18 @@ The full dataset is currently under review and will be released once approved. T
 
 ##  <img width="20" height="20" alt="qa" src="https://github.com/user-attachments/assets/997b64c4-6b82-45c6-bcff-47a7e943a817" /> Question and Answer meta data
 
+### Chartqa
+
+### DUDE
+
+### InfoVQA
+
+### SlideVQA
+
+### MMLongBench-Doc
+
+### Vidoseek
+
+### CHN
+
 
