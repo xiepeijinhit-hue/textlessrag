@@ -75,8 +75,6 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 ## 📊 Data Engine   
 Details of data engine with refine rules and examples are provided in [data](data.md)
 ### Data Statistics
-#### Page Distribution
-<img width="4000" height="600" alt="histogram" src="https://github.com/user-attachments/assets/0bb4d5b2-c22f-44c2-add1-02c021b5c1b7" />
 
 ### Five-step data generation
 <img width="500"  alt="data" src="https://github.com/user-attachments/assets/2ec70aa0-01ba-4197-b7aa-ab176a6203ef" />
@@ -96,6 +94,8 @@ Details of data engine with refine rules and examples are provided in [data](dat
 We construct the first Chinese Visual Doc RAG Dataset -- ChineseDocRAG(CDR)
 Domains world cloud:
 <img width="500" height="300" alt="wordcloud" src="https://github.com/user-attachments/assets/556408ce-8d54-41e2-9bca-a8494a8879ee" />
+#### Page Distribution
+<img width="4000" height="600" alt="histogram" src="https://github.com/user-attachments/assets/0bb4d5b2-c22f-44c2-add1-02c021b5c1b7" />
 
 
 
