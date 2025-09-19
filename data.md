@@ -1,2 +1,2 @@
-# Refine Process
+# Refine Process During Data Generation
 
