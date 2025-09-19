@@ -68,7 +68,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 <img width="500" height="350" alt="pipeline" src="https://github.com/user-attachments/assets/d6fc78bc-9838-4758-a3b0-8f1d1d93060c" />
 
 
-### <img width="20" height="20" alt="search" src="https://github.com/user-attachments/assets/72fdf7fd-278d-42e9-98d4-18e65e048210" /> Offline knowledge embedding and layout 
+### <img width="20" height="20" alt="search" src="https://github.com/user-attachments/assets/72fdf7fd-278d-42e9-98d4-18e65e048210" /> Offline knowledge embedding and layout  【todo】
 Layout Dictionary
 ```
 id_2_class_name = {
@@ -85,7 +85,7 @@ id_2_class_name = {
 }
 ```
 
-### <img width="30" height="30" alt="book" src="https://github.com/user-attachments/assets/96e8fdff-ea18-40fe-8f25-6c7875f1a94d" /> Online query embedding, topk retrieval and reranking 
+### <img width="30" height="30" alt="book" src="https://github.com/user-attachments/assets/96e8fdff-ea18-40fe-8f25-6c7875f1a94d" /> Online query embedding, topk retrieval and reranking  【todo】
 
 ## 📊 Data Engine   
 Details of data engine with refine rules and examples are provided in [refine rules](data.md) and [data examples](dataset/readme.md)
