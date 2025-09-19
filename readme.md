@@ -73,7 +73,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 ### Online query embedding, topk retrieval and reranking 
 
 ## 📊 Data Engine   
-[查看使用指南](data.md)
+Details of data engine with rules are provided in [data](data.md)
 ### Data Statistics
 
 ### Five-step data generation
