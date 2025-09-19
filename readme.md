@@ -74,7 +74,7 @@ Download `Retriver`，`Generator` and `LayOut` model weights from Hugging Face t
 ### <img width="30" height="30" alt="book" src="https://github.com/user-attachments/assets/96e8fdff-ea18-40fe-8f25-6c7875f1a94d" /> Online query embedding, topk retrieval and reranking 
 
 ## 📊 Data Engine   
-Details of data engine with refine rules and examples are provided in [data](data.md)
+Details of data engine with refine rules and examples are provided in [refine rules](data.md) and [data examples](dataset/readme.md)
 ### Data Statistics
 
 ### Five-step data generation
