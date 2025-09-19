@@ -2,7 +2,7 @@
 
 
 
-# <div align="center">TextLessRAG: End-to-end Visual Document RAG by Speech without Text<div>
+# <img width="50" height="50" alt="learning" src="https://github.com/user-attachments/assets/bc41e430-0565-43ee-b479-095fe83c9a87" /> <div align="center">TextLessRAG: End-to-end Visual Document RAG by Speech without Text<div>
 
 <div align="center">
 <!-- <h1>A Multi-round Multi-modal Reinforcement Learning Framework</h1> -->
