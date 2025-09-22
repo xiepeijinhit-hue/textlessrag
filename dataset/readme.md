@@ -6,12 +6,9 @@ The full dataset is currently under review and will be released once approved. T
 ## <img width="30" height="30" alt="icon_voice" src="https://github.com/user-attachments/assets/63dfbd03-555e-4ee7-bd38-146e13be9dcb" />  Audios
 
 The spoken audio files for the Q&A were generated using Doubao’s TTS API [docs](https://www.volcengine.com/docs/6561/1257544). To ensure data generalization, we used as many different voice timbres as possible. The list of timbres involved is as follows:
-- Chinese voice type list in [Chinese_Voices]()
+- Chinese voice type list(236) in [Chinese_Voices](CHN_voices) 
 
-
-
-  
-- English voice type in [English_Voices]()
+- English voice type list(61) in [English_Voices](ENG_voices)
 
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e90f6dbd-b48b-4993-9ff5-3794fe7a71f1" /> Images
