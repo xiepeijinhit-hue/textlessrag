@@ -22,7 +22,7 @@ For each dataset, we first provided 10 examples for reference, located in the di
 
 - For the open-source English datasets, we directly used the images they provided.
   
-- For the Chinese datasets we constructed ourselves, we used PyMuPDF to convert the PDFs into PNG images at a resolution of dpi = 200.
+- For the Chinese datasets we constructed ourselves, we used PyMuPDF to convert the PDFs into PNG images at a resolution of `dpi = 200`.
 
 ```python
 def pdf_to_images(pdf_path):
