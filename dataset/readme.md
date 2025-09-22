@@ -20,6 +20,26 @@ For each dataset, we first provided 10 examples for reference, located in the di
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e90f6dbd-b48b-4993-9ff5-3794fe7a71f1" /> Images
 
+- For the open-source English datasets, we directly used the images they provided.
+  
+- For the Chinese datasets we constructed ourselves, we used PyMuPDF to convert the PDFs into PNG images at a resolution of dpi = 200.
+
+```
+def pdf_to_images(pdf_path):
+    output_dir = pdf_path.replace('/pdf/', '/png/')
+    if os.path.exists(output_dir):
+        return
+    os.makedirs(output_dir, exist_ok=True)
+    doc = fitz.open(pdf_path)
+    for page_number in range(len(doc)):
+        page = doc.load_page(page_number)
+        pix = page.get_pixmap(dpi=200)
+        image_path = os.path.join(output_dir, f"page_{page_number + 1}.png")
+        pix.save(image_path)
+#         print(f"save: {image_path}")
+    doc.close()
+```
+
 ##  <img width="20" height="20" alt="qa" src="https://github.com/user-attachments/assets/997b64c4-6b82-45c6-bcff-47a7e943a817" /> Question and Answer meta data
 
 ### English Data
@@ -45,4 +65,15 @@ example={'query_id': 'chartqa-test_0',
 
 ### Chinese Data
 
+```
+{'编号': 0,
+ '领域': '城投&建投&城建',
+ '问题': '2024年8月市场流传的150号文的主要内容是什么？',
+ '答案': '2024年8月市场流传的150号文的主要内容包括：①隐债清零；②已剥离政府融资功能、完成市场化转型；③征得2/3债权人同意。',
+ '提问对象': '政策文件',
+ '提问对象类别': '流程图（包括ppt里设计的图片导图）',
+ '是否合格': '是',
+ 'page': '城投&建投&城建/2025年02月13日更新-城投市场化转型及新增债券融资主体观察.pdf/page_1.png',
+ 'block': '城投&建投&城建/2025年02月13日更新-城投市场化转型及新增债券融资主体观察.pdf/page_1_Block_11_Class_3.png'},
+```
 
