@@ -24,7 +24,7 @@ For each dataset, we first provided 10 examples for reference, located in the di
   
 - For the Chinese datasets we constructed ourselves, we used PyMuPDF to convert the PDFs into PNG images at a resolution of dpi = 200.
 
-```
+```python
 def pdf_to_images(pdf_path):
     output_dir = pdf_path.replace('/pdf/', '/png/')
     if os.path.exists(output_dir):
