@@ -106,11 +106,17 @@ Among them, the chartqa, dude, infovqa, and slidevqa datasets are not the origin
 ### Five-step data generation
 <img width="500"  alt="data" src="https://github.com/user-attachments/assets/2ec70aa0-01ba-4197-b7aa-ab176a6203ef" />
 
-####  Step 1:
-####  Step 2:
-####  Step 3:
-####  Step 4:
-####  Step 5:
+####  Step 1: Data Dollection 
+We collect a diverse set of documents and reports across multiple domains and formats, including
+PDFs and PPTS. 
+####  Step 2: Layout
+We utilize Doc-Layout YOLO to split whole page doc images into fine-grain blocks.
+####  Step 3: QA Generate
+The Layout blocks are processed by commercial vision–language agents(QwenVL and GPT-4o) via batch APIs to generate candidate QA pairs.
+####  Step 4: Refine
+The QA pairs are refined through rule-based filtering and professional human annotation.
+####  Step 5: TTS
+The text QA pairs are converted into speech using Doubao’s TTS API, leveraging over 200 professional voice types.
   
 
    
