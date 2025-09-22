@@ -11,6 +11,11 @@ The spoken audio files for the Q&A were generated using Doubao’s TTS API [docs
 - English voice type list(61) in [English_Voices](ENG_voices)
 
 
+When generating speech, we randomly select a voice from the list to generate either the question or the answer. The naming convention for the audio files is:
+**{q or a}@{index}@{voice\_name}.wav**
+For example: *“a@[0@en\_male\_bruce\_moon\_bigtts.wav](mailto:0@en_male_bruce_moon_bigtts.wav)”*
+
+
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e90f6dbd-b48b-4993-9ff5-3794fe7a71f1" /> Images
 
 ##  <img width="20" height="20" alt="qa" src="https://github.com/user-attachments/assets/997b64c4-6b82-45c6-bcff-47a7e943a817" /> Question and Answer meta data
