@@ -65,12 +65,53 @@ example = {
 ```
 
 #### InfoVQA
+```python
+example = {
+'query_id': 'infovqa-test_0',
+ 'query': 'Instruct: Given a question, retrieve an infographic to answer the question.\nQuery: Which three business types is Pinterest good for?',
+ 'answers': array(['interior design, restaurants, wedding venues',
+        'restaurants, wedding venues, interior design',
+        'wedding venues, restaurants, interior design',
+        'restaurants, interior design, wedding venues',
+        'wedding venues, interior design, restaurants',
+        'interior design, wedding venues, restaurants'], dtype=object),
+ 'relevant_doc_ids': array(['infovqa/37313.jpeg'], dtype=object),
+ 'dataset_names': array(['infovqa'], dtype=object),}
+```
 
 #### SlideVQA
+```python
+example = {
+'query_id': 'slidevqa-test_0',
+ 'query': 'Instruct: Given a question, retrieve a slide image to answer the question.\nQuery: In which year did Nestlé achieve higher Organic Growth, 2003 or 2004?',
+ 'answers': array(['2003'], dtype=object),
+ 'relevant_doc_ids': array(['slidevqa/2012-02-20fy11roadshow-120221022442-phpapp02_95/slide_7_1024.jpg'],
+       dtype=object),
+ 'dataset_names': array(['slidevqa'], dtype=object),}
+```
 
 #### MMLongBench-Doc
-
+```python
+example = {
+'doc_id': 'PH_2016.06.08_Economy-Final.pdf',
+ 'doc_type': 'Research report / Introduction',
+ 'question': 'According to the report, how do 5% of the Latinos see economic upward mobility for their children?',
+ 'answer': 'Less well-off',
+ 'evidence_pages': '[5]',
+ 'evidence_sources': "['Chart']",
+ 'answer_format': 'Str',}
+```
 #### Vidoseek
+```python
+example ={
+'uid': '03c7d62afbcc088cad1c810c09a71df29a29c968_1',
+ 'query': 'Apply for Nordic Swan Ecolabel license, what is recommended as a web browser according to the Nordic Ecolabelling Portal instructions?',
+ 'reference_answer': 'Microsoft Edge or Google Chrome.',
+ 'meta_info': {'file_name': '03c7d62afbcc088cad1c810c09a71df29a29c968.pdf',
+  'query_type': 'single_hop',
+  'reference_page': array([4]),
+  'source_type': 'text'},}
+```
 
 ### Chinese Data
 
