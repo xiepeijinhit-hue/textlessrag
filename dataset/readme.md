@@ -25,6 +25,13 @@ For each dataset, we first provided 10 examples for reference, located in the di
 ### English Data
 
 #### Chartqa
+```
+example={'query_id': 'chartqa-test_0',
+ 'query': 'Instruct: Given a user query, retrieve a chart image that answers the query.\nQuery: What percent who think of President Donald Trump as Dangerous?',
+ 'answers': array(['62'], dtype=object),
+ 'relevant_doc_ids': array(['chartqa/166.png'], dtype=object),
+ 'dataset_names': array(['chartqa'], dtype=object)}
+```
 
 #### DUDE
 
