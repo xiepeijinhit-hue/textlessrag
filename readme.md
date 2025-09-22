@@ -90,6 +90,18 @@ id_2_class_name = {
 ## 📊 Data Engine   
 Details of data engine with refine rules and examples are provided in [refine rules](data.md) and [data examples](dataset/readme.md)
 ### Data Statistics
+Among them, the chartqa, dude, infovqa, and slidevqa datasets are not the original data but filtered subsets, directly sourced from the open-source dataset in the CVPR 2025 paper VDocRAG: [https://vdocrag.github.io](https://vdocrag.github.io)
+
+| Dataset          | Amount | Pool (pdf amount / image amount) | Content                          | Domain     |
+|------------------|--------|----------------------------|----------------------------------|------------|
+| chartqa          | 150    | 119                        | Chart                            | Academic   |
+| dude             | 496    | 422                        | Chart / Table / Text             | Open       |
+| infovqa          | 1048   | 300                        | Chart / Table / Layout / Image   | Infographic|
+| slidevqa         | 760    | 657                        | Chart / Table / Image / Text     | Slide      |
+| mmlongbench-doc  | 1091   | 135 / 5134                 | Chart / Table / Layout / Image / Text | Open  |
+| vidoseek         | 1142   | 290 / 5349                 | Chart / Table / Layout / Image   | Open       |
+| 中文bench         | 1260   | 737 / 30583                | Chart / Table / Layout / Image / Text | Open  |
+| **Total**        | **5947** | **42564**                 | Chart / Table / Layout / Image / Text | Open |
 
 ### Five-step data generation
 <img width="500"  alt="data" src="https://github.com/user-attachments/assets/2ec70aa0-01ba-4197-b7aa-ab176a6203ef" />
