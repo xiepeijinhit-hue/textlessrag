@@ -45,7 +45,7 @@ def pdf_to_images(pdf_path):
 ### English Data
 
 #### Chartqa
-```
+```python
 example={'query_id': 'chartqa-test_0',
  'query': 'Instruct: Given a user query, retrieve a chart image that answers the query.\nQuery: What percent who think of President Donald Trump as Dangerous?',
  'answers': array(['62'], dtype=object),
@@ -65,7 +65,7 @@ example={'query_id': 'chartqa-test_0',
 
 ### Chinese Data
 
-```
+```python
 {'编号': 0,
  '领域': '城投&建投&城建',
  '问题': '2024年8月市场流传的150号文的主要内容是什么？',
