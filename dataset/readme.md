@@ -54,6 +54,15 @@ example={'query_id': 'chartqa-test_0',
 ```
 
 #### DUDE
+```python
+example = {
+'query_id': 'dude-test_0',
+ 'query': 'Instruct: You need to retrieve evidence from a PDF page to address the question.\nQuery: What is the minimum wage Agricultural Employees on January 1, 2020?',
+ 'answers': array(['$10.30'], dtype=object),
+ 'relevant_doc_ids': array(['dude/6fe71b02ed5e4e141a7e7a9e96505c31_0.jpg'], dtype=object),
+ 'dataset_names': array(['dude'], dtype=object),
+}
+```
 
 #### InfoVQA
 
