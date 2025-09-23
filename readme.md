@@ -27,8 +27,8 @@ We demonstrate an example of a pipeline in the video below.
 
 https://github.com/user-attachments/assets/27884988-2bc6-4aa2-b892-6eaa39baa005
 
-### Example List for CHN set
-we provide examples of Chinese doc rag in [examples](dataset/CHN_examples.md)
+### Example List 
+we provide examples of Chinese doc rag in [examples](dataset/CHN_examples.md) and English part in [data](dataset/readme.md)
 
 
 ## 🔥 News
