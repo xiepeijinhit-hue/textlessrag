@@ -1,4 +1,5 @@
 # Example List for CHN set
+The first Chinese Document RAG dataset(CDR):
 
 ```python
 {'编号': 0,
@@ -12,7 +13,7 @@
  'block': '城投&建投&城建/2025年02月13日更新-城投市场化转型及新增债券融资主体观察.pdf/page_1_Block_11_Class_3.png'},
 ```
 
-The first Chinese Document RAG dataset(CDR):
+
 
 
 |   领域   |                         问题                         |                                                                 答案                                                                 |      提问对象      |            提问对象类别            |             图片             |             依据block             |
@@ -22,4 +23,4 @@ The first Chinese Document RAG dataset(CDR):
 | 果汁&饮料 | 农产品批发价格200指数在<br>领先1期时的相关系数是多少？ | 0.353 | 农产品批发价格200指数 | 表格 | <img width="200" alt="3" src="https://github.com/user-attachments/assets/f7d3e6d5-c6e5-497b-9d14-094a03f81113" /> | <img width="200" alt="3_b" src="https://github.com/user-attachments/assets/b7bb77be-7511-4c72-9dce-98fb5a5d0232" />|
 | 机械设备 | 滚柱丝杠由哪些主要部件组成？ | 滚柱丝杠主要是由：<br>滚柱丝杠、滚柱螺母、滚柱、<br>内齿圈、压盖及挡圈组成。 | 滚柱丝杠 | 自然拍摄图片 | <img width="200" alt="4" src="https://github.com/user-attachments/assets/31a515c1-0802-419d-9e86-255fa75a2e24" />| <img width="200" alt="4_b" src="https://github.com/user-attachments/assets/a90ef691-050e-41a6-aeda-a65eb834d968" />|
 | 金融&绿色金融&碳金融 | 云闪付场景精准营销的<br>具体操作步骤是什么？ | 云闪付场景精准营销的具体操作步骤包括：<br>① 用户在云闪付APP上看到推荐内容，点击查看详情；<br>② 进入详情页面后，用户可以选择银行支付专属福利；<br>③ 最后确认支付。 | 云闪付场景精准营销 | 屏幕网页界面截图（如手机直播界面截图等） | <img width="200" alt="5" src="https://github.com/user-attachments/assets/c8e0570c-3c4b-4c93-b1d4-dd2b2b63a045" />| <img width="200" alt="5_b" src="https://github.com/user-attachments/assets/91b71eeb-466b-4639-88be-6beaf01db047" />
- |
+ 
