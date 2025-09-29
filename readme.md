@@ -114,9 +114,10 @@ PDFs and PPTS.
 ####  Step 2: Layout
 We utilize Doc-Layout YOLO to split whole page doc images into fine-grain blocks.
 ####  Step 3: QA Generate
-The Layout blocks are processed by commercial vision–language agents(QwenVL and GPT-4o) via batch APIs to generate candidate QA pairs.
+The Layout blocks are processed by commercial vision–language agents(QwenVL-max and GPT-4o)【the most powerful vllm to date】 via batch APIs to generate candidate QA pairs.
 ####  Step 4: Refine
 The QA pairs are refined through rule-based filtering and professional human annotation.
+The details are illustrated in [refine rules](data.md).
 ####  Step 5: TTS
 The text QA pairs are converted into speech using Doubao’s TTS API, leveraging over 200 professional voice types.
   
